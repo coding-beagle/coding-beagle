@@ -1,3 +1,3 @@
 ## I teach sand to think
 
-<iframe src="https://www.nteague.com" title="NTeague Website"></iframe>
+[![nteague.com](splash-screen.gif)](nteague.com)
